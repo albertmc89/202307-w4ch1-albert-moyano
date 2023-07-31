@@ -27,18 +27,6 @@ button {
   border: none;
 }
 
-.options__question {
-  display: inline-block;
-  font-size: 1.5rem;
-  font-weight: bold;
-  margin-bottom: 15px;
-}
-
-.options__answers {
-  display: flex;
-  gap: 20px;
-}
-
 .button {
   border: 2px solid #222;
   border-radius: 0.3125rem;

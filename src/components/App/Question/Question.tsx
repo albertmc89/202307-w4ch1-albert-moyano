@@ -1,4 +1,5 @@
 import { QuestionStructure } from "../../../types";
+import "./Question.css";
 
 const Question = ({ questionText }: QuestionStructure) => {
   return (

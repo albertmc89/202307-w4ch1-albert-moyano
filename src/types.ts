@@ -3,7 +3,3 @@ export interface QuestionStructure {
   id: number;
   questionText: string;
 }
-
-export interface Button {
-  text: string;
-}
